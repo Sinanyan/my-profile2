@@ -1,0 +1,30 @@
+/* Colors and fonts */
+body{
+background:lavender;
+color:  coral;
+font-family:courier;
+font-size:20px;
+}
+
+img{width: 170px;
+border-radius: 50%;
+border: solid 5px plum;}
+h1{
+	color:orange;
+	font-family: courier;
+	font-size:35px ;
+}
+
+h2 {
+	color: ;
+	font-family:Courier;
+	font-size:20;
+	font-weight:lighter;
+}
+a{
+	text-decoration: none;
+	color: lightcoral;
+}
+a:hover{
+	color: plum;
+}
